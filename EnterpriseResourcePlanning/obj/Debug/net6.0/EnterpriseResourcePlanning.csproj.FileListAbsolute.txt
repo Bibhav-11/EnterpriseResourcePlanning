@@ -1,0 +1,14 @@
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\net6.0\EnterpriseResourcePlanning.exe
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\net6.0\EnterpriseResourcePlanning.deps.json
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\net6.0\EnterpriseResourcePlanning.runtimeconfig.json
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\net6.0\EnterpriseResourcePlanning.dll
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\net6.0\EnterpriseResourcePlanning.pdb
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\EnterpriseResourcePlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\EnterpriseResourcePlanning.AssemblyInfoInputs.cache
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\EnterpriseResourcePlanning.AssemblyInfo.cs
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\EnterpriseResourcePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\EnterpriseResourcePlanning.dll
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\refint\EnterpriseResourcePlanning.dll
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\EnterpriseResourcePlanning.pdb
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\EnterpriseResourcePlanning.genruntimeconfig.cache
+C:\Users\Bibhav\Desktop\Internship\1 - OOP\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\Debug\net6.0\ref\EnterpriseResourcePlanning.dll
